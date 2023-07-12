@@ -1,0 +1,36 @@
+body{
+  /* background-color: #CBF1F5; */
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/659/653/167/coins-money-hourglasses-wallpaper-preview.jpg");
+  background-position: center;
+  background-size: 100% 250%;
+
+}
+.tt{
+  margin:50px 0 0 35px;
+  color :#FFE3E1;
+  font-size: 40px;
+}
+.up{
+  margin-left: 650px;
+  color:white;
+}
+.line{
+  margin-top: 70px;
+  margin-left: 50px;
+  /* text-align: center; */
+  font-size: 50px;
+  /* width: 10px; */
+}
+.timer{
+  /* width: 20px; */
+  font-size: 30px;
+  text-align: center;
+
+  display: flex;
+}
+.timer div{
+  flex-basis: 150px;
+}
+span{
+  font-size: 20px;
+}
